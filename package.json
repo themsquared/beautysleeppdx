@@ -1,0 +1,13 @@
+{
+  "name": "beauty-sleep-studio-pdx",
+  "version": "1.0.0",
+  "description": "Beauty Sleep Studio PDX – Lash extensions, lifts & brow lamination in Portland",
+  "scripts": {
+    "build:css": "tailwindcss -i ./src/styles.css -o ./dist/styles.css --minify",
+    "build": "mkdir -p dist/images && npm run build:css && cp index.html dist/ && cp -r images dist/ 2>/dev/null || true",
+    "dev": "tailwindcss -i ./src/styles.css -o ./dist/styles.css --watch"
+  },
+  "devDependencies": {
+    "tailwindcss": "^3.4"
+  }
+}

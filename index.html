@@ -1,0 +1,567 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta name="description" content="Wake up beautiful — premium lash extensions, lash lifts & brow lamination by licensed esthetician Haley in Portland's Nob Hill. Book your appointment today.">
+  <meta name="keywords" content="lash extensions Portland, lash lift Portland, brow lamination Portland, Beauty Sleep Studio, Nob Hill lashes">
+  <meta property="og:title" content="Beauty Sleep Studio | Portland Lash Extensions & Lifts">
+  <meta property="og:description" content="Premium lash extensions, lifts & brow lamination in Portland's Nob Hill by licensed esthetician Haley.">
+  <meta property="og:type" content="website">
+  <meta property="og:url" content="https://www.beautysleepstudiopdx.com">
+  <title>Beauty Sleep Studio | Portland Lash Extensions & Lifts</title>
+  <link rel="stylesheet" href="./styles.css">
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.6.0/css/all.min.css">
+</head>
+<body>
+
+  <!-- NAVBAR -->
+  <nav id="navbar" class="fixed top-0 w-full z-50 transition-all duration-500 bg-transparent">
+    <div class="max-w-7xl mx-auto px-6 lg:px-8">
+      <div class="flex justify-between items-center py-5">
+        <!-- Logo -->
+        <a href="#" class="flex flex-col leading-none">
+          <span class="text-2xl md:text-3xl font-serif tracking-wide text-white transition-colors duration-500" id="nav-logo">Beauty Sleep</span>
+          <span class="text-[10px] uppercase tracking-[0.35em] text-white/70 mt-0.5 transition-colors duration-500" id="nav-sub">Studio PDX</span>
+        </a>
+
+        <!-- Desktop Nav -->
+        <div class="hidden lg:flex items-center gap-8">
+          <a href="#" class="nav-link text-white/80 hover:text-white" data-nav-link>Home</a>
+          <div class="relative group">
+            <button class="nav-link text-white/80 hover:text-white flex items-center gap-1" data-nav-link>
+              Services <i class="fas fa-chevron-down text-[8px] mt-0.5"></i>
+            </button>
+            <div class="absolute top-full left-0 pt-2 opacity-0 invisible group-hover:opacity-100 group-hover:visible transition-all duration-200">
+              <div class="bg-white rounded-xl shadow-xl py-3 px-2 min-w-[200px]">
+                <a href="#services" class="block px-4 py-2.5 text-sm text-neutral-700 hover:bg-brand-50 hover:text-brand-700 rounded-lg transition">Lash Extensions</a>
+                <a href="#services" class="block px-4 py-2.5 text-sm text-neutral-700 hover:bg-brand-50 hover:text-brand-700 rounded-lg transition">Lash Lift & Tint</a>
+                <a href="#services" class="block px-4 py-2.5 text-sm text-neutral-700 hover:bg-brand-50 hover:text-brand-700 rounded-lg transition">Brow Lamination</a>
+              </div>
+            </div>
+          </div>
+          <a href="#portfolio" class="nav-link text-white/80 hover:text-white" data-nav-link>Portfolio</a>
+          <a href="#about" class="nav-link text-white/80 hover:text-white" data-nav-link>About</a>
+          <div class="relative group">
+            <button class="nav-link text-white/80 hover:text-white flex items-center gap-1" data-nav-link>
+              FAQ <i class="fas fa-chevron-down text-[8px] mt-0.5"></i>
+            </button>
+            <div class="absolute top-full right-0 pt-2 opacity-0 invisible group-hover:opacity-100 group-hover:visible transition-all duration-200">
+              <div class="bg-white rounded-xl shadow-xl py-3 px-2 min-w-[220px]">
+                <a href="#policies" class="block px-4 py-2.5 text-sm text-neutral-700 hover:bg-brand-50 hover:text-brand-700 rounded-lg transition">Policies</a>
+                <a href="#faq-extensions" class="block px-4 py-2.5 text-sm text-neutral-700 hover:bg-brand-50 hover:text-brand-700 rounded-lg transition">Lash Extensions FAQ</a>
+                <a href="#faq-lift" class="block px-4 py-2.5 text-sm text-neutral-700 hover:bg-brand-50 hover:text-brand-700 rounded-lg transition">Lash Lift FAQ</a>
+                <a href="#faq-brow" class="block px-4 py-2.5 text-sm text-neutral-700 hover:bg-brand-50 hover:text-brand-700 rounded-lg transition">Brow Lamination FAQ</a>
+              </div>
+            </div>
+          </div>
+          <a href="#contact" class="nav-link text-white/80 hover:text-white" data-nav-link>Contact</a>
+        </div>
+
+        <!-- CTA + Mobile Toggle -->
+        <div class="flex items-center gap-4">
+          <a href="https://square.site/book/DYKA7NPF92BP7/beauty-sleep-studio-portland-or" target="_blank"
+             class="hidden sm:inline-flex btn-primary !py-3 !px-6 !text-[11px]">Book Now</a>
+          <button id="mobile-toggle" class="lg:hidden text-white text-2xl" aria-label="Toggle menu">
+            <i class="fas fa-bars"></i>
+          </button>
+        </div>
+      </div>
+    </div>
+
+    <!-- Mobile Menu -->
+    <div id="mobile-menu" class="lg:hidden hidden bg-white border-t border-neutral-100">
+      <div class="px-6 py-6 space-y-4">
+        <a href="#" class="block text-sm font-medium text-charcoal" onclick="closeMobile()">Home</a>
+        <a href="#services" class="block text-sm font-medium text-charcoal" onclick="closeMobile()">Services</a>
+        <a href="#portfolio" class="block text-sm font-medium text-charcoal" onclick="closeMobile()">Portfolio</a>
+        <a href="#about" class="block text-sm font-medium text-charcoal" onclick="closeMobile()">About</a>
+        <a href="#policies" class="block text-sm font-medium text-charcoal" onclick="closeMobile()">Policies</a>
+        <a href="#faq-extensions" class="block text-sm font-medium text-charcoal" onclick="closeMobile()">FAQ</a>
+        <a href="#contact" class="block text-sm font-medium text-charcoal" onclick="closeMobile()">Contact</a>
+        <a href="https://square.site/book/DYKA7NPF92BP7/beauty-sleep-studio-portland-or" target="_blank"
+           class="btn-primary w-full justify-center !text-[11px]">Book Now</a>
+      </div>
+    </div>
+  </nav>
+
+  <!-- HERO -->
+  <section class="relative h-screen flex items-center justify-center overflow-hidden">
+    <div class="absolute inset-0 bg-[url('https://images.unsplash.com/photo-1560066984-138dadb4c035?w=1920&q=80')] bg-cover bg-center"></div>
+    <div class="absolute inset-0 bg-gradient-to-b from-black/40 via-black/30 to-black/60"></div>
+    <div class="relative z-10 text-center px-6 max-w-4xl">
+      <p class="text-white/70 text-xs uppercase tracking-[0.4em] mb-6 slide-up" style="animation-delay: 0.1s">Portland's Nob Hill</p>
+      <h1 class="font-serif text-5xl sm:text-6xl md:text-7xl lg:text-8xl text-white font-normal leading-[0.95] mb-6 slide-up" style="animation-delay: 0.3s">
+        Beauty Sleep<br>Studio
+      </h1>
+      <p class="text-white/80 text-lg md:text-xl mb-10 slide-up" style="animation-delay: 0.5s">
+        Lash Extensions &bull; Lash Lifts &bull; Brow Lamination
+      </p>
+      <div class="slide-up" style="animation-delay: 0.7s">
+        <a href="https://square.site/book/DYKA7NPF92BP7/beauty-sleep-studio-portland-or" target="_blank"
+           class="inline-flex items-center gap-3 bg-white text-charcoal px-10 py-5 rounded-full text-sm uppercase tracking-widest font-medium hover:bg-brand-100 transition-colors duration-300">
+          Book Now <i class="fas fa-arrow-right text-xs"></i>
+        </a>
+      </div>
+    </div>
+    <div class="absolute bottom-8 left-1/2 -translate-x-1/2 animate-bounce">
+      <a href="#services" class="text-white/50 hover:text-white transition"><i class="fas fa-chevron-down text-lg"></i></a>
+    </div>
+  </section>
+
+  <!-- SERVICES -->
+  <section id="services" class="py-24 md:py-32 bg-cream">
+    <div class="max-w-7xl mx-auto px-6 lg:px-8">
+      <div class="text-center mb-16 md:mb-20">
+        <h2 class="section-heading">SERVICES</h2>
+        <p class="mt-4 text-neutral-500 max-w-xl mx-auto">Customized lash and brow treatments tailored to your unique eye shape and style preferences.</p>
+      </div>
+
+      <!-- Service Categories -->
+      <div class="grid md:grid-cols-2 gap-8 mb-16">
+        <!-- Lash Extensions -->
+        <div class="card group relative overflow-hidden">
+          <div class="absolute top-0 right-0 w-32 h-32 bg-brand-50 rounded-bl-[80px] -mr-4 -mt-4 group-hover:bg-brand-100 transition-colors"></div>
+          <div class="relative">
+            <div class="w-12 h-12 bg-brand-100 rounded-full flex items-center justify-center mb-6">
+              <i class="fas fa-eye text-brand-600"></i>
+            </div>
+            <h3 class="text-2xl font-serif mb-3">Lash Extensions</h3>
+            <p class="text-neutral-500 mb-6 leading-relaxed">Lash extensions offer added length and fullness to your lashes without the need for mascara. They are customized to you and your eye shape and can be as natural or as dramatic as you would like.</p>
+            <div class="space-y-3 text-sm">
+              <div class="flex justify-between items-center py-2 border-b border-neutral-100">
+                <span class="font-medium">Classic Full Set</span><span class="text-brand-600 font-medium">$180</span>
+              </div>
+              <div class="flex justify-between items-center py-2 border-b border-neutral-100">
+                <span class="font-medium">Hybrid Full Set</span><span class="text-brand-600 font-medium">$210</span>
+              </div>
+              <div class="flex justify-between items-center py-2 border-b border-neutral-100">
+                <span class="font-medium">Volume Full Set</span><span class="text-brand-600 font-medium">$260</span>
+              </div>
+              <div class="flex justify-between items-center py-2 text-neutral-400">
+                <span>Fills from</span><span>$80+</span>
+              </div>
+            </div>
+          </div>
+        </div>
+
+        <!-- Lash Lifts & Brow Lamination -->
+        <div class="card group relative overflow-hidden">
+          <div class="absolute top-0 right-0 w-32 h-32 bg-brand-50 rounded-bl-[80px] -mr-4 -mt-4 group-hover:bg-brand-100 transition-colors"></div>
+          <div class="relative">
+            <div class="w-12 h-12 bg-brand-100 rounded-full flex items-center justify-center mb-6">
+              <i class="fas fa-spa text-brand-600"></i>
+            </div>
+            <h3 class="text-2xl font-serif mb-3">Lash Lifts & Brow Lamis</h3>
+            <p class="text-neutral-500 mb-6 leading-relaxed">Lash lifts add an amazing curl to your natural lashes that lasts up to eight weeks without the need for maintenance! Brow laminations direct the brow hairs upward to create a fuller brow.</p>
+            <div class="space-y-3 text-sm">
+              <div class="flex justify-between items-center py-2 border-b border-neutral-100">
+                <span class="font-medium">Lash Lift + Tint</span><span class="text-brand-600 font-medium">$100</span>
+              </div>
+              <div class="flex justify-between items-center py-2 border-b border-neutral-100">
+                <span class="font-medium">Lash Lift Only</span><span class="text-brand-600 font-medium">$85</span>
+              </div>
+              <div class="flex justify-between items-center py-2 border-b border-neutral-100">
+                <span class="font-medium">Lash Tint Only</span><span class="text-brand-600 font-medium">$30</span>
+              </div>
+              <div class="flex justify-between items-center py-2 text-neutral-400">
+                <span>Brow Lamination</span><span>Ask in booking notes</span>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+
+      <div class="text-center">
+        <a href="https://square.site/book/DYKA7NPF92BP7/beauty-sleep-studio-portland-or" target="_blank" class="btn-primary">
+          Book Your Appointment <i class="fas fa-arrow-right text-xs"></i>
+        </a>
+      </div>
+    </div>
+  </section>
+
+  <!-- PORTFOLIO -->
+  <section id="portfolio" class="py-24 md:py-32 bg-white">
+    <div class="max-w-7xl mx-auto px-6 lg:px-8">
+      <div class="text-center mb-16">
+        <h2 class="section-heading">Portfolio</h2>
+        <p class="mt-4 text-neutral-500">A selection of recent work</p>
+      </div>
+      <div class="grid grid-cols-2 md:grid-cols-3 gap-3 md:gap-4">
+        <div class="aspect-square overflow-hidden rounded-xl group">
+          <img src="https://images.unsplash.com/photo-1583001931096-959e9a1a6223?w=600&q=80" alt="Lash work example"
+               class="w-full h-full object-cover group-hover:scale-105 transition-transform duration-500" loading="lazy">
+        </div>
+        <div class="aspect-square overflow-hidden rounded-xl group">
+          <img src="https://images.unsplash.com/photo-1616683693504-3ea7e9ad6fec?w=600&q=80" alt="Lash work example"
+               class="w-full h-full object-cover group-hover:scale-105 transition-transform duration-500" loading="lazy">
+        </div>
+        <div class="aspect-square overflow-hidden rounded-xl group">
+          <img src="https://images.unsplash.com/photo-1522337360788-8b13dee7a37e?w=600&q=80" alt="Lash work example"
+               class="w-full h-full object-cover group-hover:scale-105 transition-transform duration-500" loading="lazy">
+        </div>
+        <div class="aspect-square overflow-hidden rounded-xl group">
+          <img src="https://images.unsplash.com/photo-1516975080664-ed2fc6a32937?w=600&q=80" alt="Lash work example"
+               class="w-full h-full object-cover group-hover:scale-105 transition-transform duration-500" loading="lazy">
+        </div>
+        <div class="aspect-square overflow-hidden rounded-xl group">
+          <img src="https://images.unsplash.com/photo-1487412947147-5cebf100ffc2?w=600&q=80" alt="Lash work example"
+               class="w-full h-full object-cover group-hover:scale-105 transition-transform duration-500" loading="lazy">
+        </div>
+        <div class="aspect-square overflow-hidden rounded-xl group relative">
+          <img src="https://images.unsplash.com/photo-1570172619644-dfd03ed5d881?w=600&q=80" alt="Lash work example"
+               class="w-full h-full object-cover group-hover:scale-105 transition-transform duration-500" loading="lazy">
+          <a href="https://www.instagram.com" target="_blank"
+             class="absolute inset-0 bg-black/40 flex items-center justify-center opacity-0 group-hover:opacity-100 transition-opacity duration-300">
+            <span class="text-white text-sm uppercase tracking-widest font-medium"><i class="fab fa-instagram mr-2"></i>See More</span>
+          </a>
+        </div>
+      </div>
+    </div>
+  </section>
+
+  <!-- ABOUT -->
+  <section id="about" class="py-24 md:py-32 bg-cream">
+    <div class="max-w-7xl mx-auto px-6 lg:px-8">
+      <div class="grid lg:grid-cols-2 gap-16 items-center">
+        <!-- Photo -->
+        <div class="relative">
+          <div class="aspect-[3/4] rounded-2xl overflow-hidden">
+            <img src="https://images.unsplash.com/photo-1594744803329-e58b31de8bf5?w=800&q=80" alt="Haley — Licensed Esthetician"
+                 class="w-full h-full object-cover" loading="lazy">
+          </div>
+          <div class="absolute -bottom-6 -right-6 w-48 h-48 bg-brand-100 rounded-2xl -z-10"></div>
+        </div>
+        <!-- Bio -->
+        <div>
+          <h2 class="section-heading mb-2">about me</h2>
+          <p class="text-brand-600 uppercase text-xs tracking-[0.3em] mb-8">Meet Haley</p>
+          <div class="space-y-5 text-neutral-600 leading-relaxed">
+            <p>Hello, welcome to my page! I was born in Wisconsin, grew up in Arizona, and have lived in Oregon for the last twelve years. I love living in the Pacific Northwest and all of the beauty and adventure this state offers. I met my husband here eight years ago and we were married in 2018. My two sisters and their husbands now live here and it's safe to say this is my home now!</p>
+            <p>I've been a licensed esthetician since 2008 and I love all things lashes and skincare. I love saving my clients time everyday getting ready with my lash services. Whether it's a lash lift so they no longer need to curl their lashes, or lash extensions so they no longer need to apply mascara or strip lashes! You can wake up and go without worrying about eye makeup.</p>
+            <p>I love helping my clients with their skin and skincare routine, helping them feel confident and beautiful. I pride myself on creating a relaxing, inviting environment for people to come and feel totally at ease. Self care is so important, it allows you to show up better for everything and everyone else in your life when you're taking care of yourself. So schedule yourself some "you" time today and let me take care of the rest.</p>
+          </div>
+          <a href="https://square.site/book/DYKA7NPF92BP7/beauty-sleep-studio-portland-or" target="_blank"
+             class="btn-outline mt-8">Book With Haley <i class="fas fa-arrow-right text-xs"></i></a>
+        </div>
+      </div>
+    </div>
+  </section>
+
+  <!-- TESTIMONIALS -->
+  <section class="py-24 md:py-32 bg-charcoal text-white">
+    <div class="max-w-4xl mx-auto px-6 lg:px-8 text-center">
+      <p class="text-brand-400 text-xs uppercase tracking-[0.3em] mb-4">Kind Words</p>
+      <div id="testimonial-slider" class="relative">
+        <div class="testimonial-slide">
+          <blockquote class="font-serif text-2xl md:text-3xl leading-relaxed font-light mb-8">
+            "Haley is absolutely amazing. I've been getting lash extensions for years and she's the best I've ever had. So relaxing and my lashes always look perfect."
+          </blockquote>
+          <cite class="not-italic text-sm uppercase tracking-widest text-white/60">— Happy Client</cite>
+        </div>
+      </div>
+    </div>
+  </section>
+
+  <!-- POLICIES -->
+  <section id="policies" class="py-24 md:py-32 bg-white">
+    <div class="max-w-3xl mx-auto px-6 lg:px-8">
+      <div class="text-center mb-16">
+        <h2 class="section-heading">Policies</h2>
+      </div>
+      <div class="space-y-0 divide-y divide-neutral-100">
+        <details class="faq-item" open>
+          <summary>
+            <span>Cancellations & No Shows</span>
+            <i class="fas fa-chevron-down faq-chevron text-sm"></i>
+          </summary>
+          <p class="pb-5 text-neutral-500 leading-relaxed">24-hour notice required for cancellations. Late cancellations are subject to a 50% charge. No-shows will be charged the full service amount.</p>
+        </details>
+        <details class="faq-item">
+          <summary>
+            <span>Running Late</span>
+            <i class="fas fa-chevron-down faq-chevron text-sm"></i>
+          </summary>
+          <p class="pb-5 text-neutral-500 leading-relaxed">Please text me if you're running late. I'll do my best to accommodate you in the remaining time, but you'll be charged for the full appointment slot.</p>
+        </details>
+        <details class="faq-item">
+          <summary>
+            <span>Under the Weather</span>
+            <i class="fas fa-chevron-down faq-chevron text-sm"></i>
+          </summary>
+          <p class="pb-5 text-neutral-500 leading-relaxed">If you're feeling sick, please reschedule — no cancellation fee applies. If you arrive with symptoms, you'll be asked to leave and will still be charged for the appointment.</p>
+        </details>
+        <details class="faq-item">
+          <summary>
+            <span>Children & Guests</span>
+            <i class="fas fa-chevron-down faq-chevron text-sm"></i>
+          </summary>
+          <p class="pb-5 text-neutral-500 leading-relaxed">Please come alone to your appointment. The studio is a calm, relaxing space and I want to maintain that atmosphere for everyone.</p>
+        </details>
+      </div>
+    </div>
+  </section>
+
+  <!-- FAQ -->
+  <section id="faq-extensions" class="py-24 md:py-32 bg-cream">
+    <div class="max-w-3xl mx-auto px-6 lg:px-8">
+      <div class="text-center mb-16">
+        <h2 class="section-heading">FAQ</h2>
+      </div>
+
+      <!-- Lash Extensions FAQ -->
+      <div class="mb-12">
+        <h3 class="text-sm uppercase tracking-[0.2em] text-brand-600 font-medium mb-6">Lash Extensions</h3>
+        <div class="space-y-0 divide-y divide-neutral-200">
+          <details class="faq-item">
+            <summary>
+              <span>How long do lash extensions last?</span>
+              <i class="fas fa-chevron-down faq-chevron text-sm"></i>
+            </summary>
+            <p class="pb-5 text-neutral-500 leading-relaxed">Lash extensions last through the natural lash cycle — typically 2–4 weeks before a fill is needed. With proper care, you can maintain them indefinitely with regular fills.</p>
+          </details>
+          <details class="faq-item">
+            <summary>
+              <span>What's the difference between Classic, Hybrid, and Volume?</span>
+              <i class="fas fa-chevron-down faq-chevron text-sm"></i>
+            </summary>
+            <p class="pb-5 text-neutral-500 leading-relaxed"><strong>Classic:</strong> One extension per natural lash — a natural, everyday look. <strong>Hybrid:</strong> A mix of classic and volume for added drama without going full glam. <strong>Volume:</strong> 3–6 extensions per natural lash for a full, fluffy look.</p>
+          </details>
+          <details class="faq-item">
+            <summary>
+              <span>How should I prepare for my appointment?</span>
+              <i class="fas fa-chevron-down faq-chevron text-sm"></i>
+            </summary>
+            <p class="pb-5 text-neutral-500 leading-relaxed">Come with clean, makeup-free eyes. Avoid using oil-based products around the eye area before your appointment.</p>
+          </details>
+        </div>
+      </div>
+
+      <!-- Lash Lift FAQ -->
+      <div id="faq-lift" class="mb-12">
+        <h3 class="text-sm uppercase tracking-[0.2em] text-brand-600 font-medium mb-6">Lash Lift</h3>
+        <div class="space-y-0 divide-y divide-neutral-200">
+          <details class="faq-item">
+            <summary>
+              <span>How should I prepare for a lash lift?</span>
+              <i class="fas fa-chevron-down faq-chevron text-sm"></i>
+            </summary>
+            <p class="pb-5 text-neutral-500 leading-relaxed">Come without eye makeup. After your treatment, keep lashes dry for 24 hours for best results.</p>
+          </details>
+          <details class="faq-item">
+            <summary>
+              <span>How long does a lash lift last?</span>
+              <i class="fas fa-chevron-down faq-chevron text-sm"></i>
+            </summary>
+            <p class="pb-5 text-neutral-500 leading-relaxed">A lash lift lasts 6–8 weeks. Use Elleeplex or Elleevate serum daily ($40) to maintain and nourish your lashes. Tint lasts up to 4 weeks.</p>
+          </details>
+        </div>
+      </div>
+
+      <!-- Brow Lamination FAQ -->
+      <div id="faq-brow">
+        <h3 class="text-sm uppercase tracking-[0.2em] text-brand-600 font-medium mb-6">Brow Lamination</h3>
+        <div class="space-y-0 divide-y divide-neutral-200">
+          <details class="faq-item">
+            <summary>
+              <span>How should I prepare for brow lamination?</span>
+              <i class="fas fa-chevron-down faq-chevron text-sm"></i>
+            </summary>
+            <p class="pb-5 text-neutral-500 leading-relaxed">Come with clean brows, already shaped if possible. Avoid any brow products the day of your appointment.</p>
+          </details>
+          <details class="faq-item">
+            <summary>
+              <span>How long does brow lamination last?</span>
+              <i class="fas fa-chevron-down faq-chevron text-sm"></i>
+            </summary>
+            <p class="pb-5 text-neutral-500 leading-relaxed">Brow lamination lasts up to 6 weeks. The treatment makes your brow hairs malleable — use gel or brow soap to hold your preferred style.</p>
+          </details>
+        </div>
+      </div>
+    </div>
+  </section>
+
+  <!-- CONTACT -->
+  <section id="contact" class="py-24 md:py-32 bg-white">
+    <div class="max-w-7xl mx-auto px-6 lg:px-8">
+      <div class="text-center mb-16">
+        <h2 class="section-heading">Contact Us</h2>
+      </div>
+
+      <div class="grid lg:grid-cols-2 gap-16">
+        <!-- Contact Info -->
+        <div class="space-y-10">
+          <div class="grid sm:grid-cols-2 gap-8">
+            <div>
+              <h3 class="text-xs uppercase tracking-[0.2em] text-neutral-400 mb-3">Address</h3>
+              <p class="font-medium leading-relaxed">1308 NW 20th Ave<br>Suite 4<br>Portland, OR 97209</p>
+            </div>
+            <div>
+              <h3 class="text-xs uppercase tracking-[0.2em] text-neutral-400 mb-3">Contact</h3>
+              <p class="font-medium">928-499-1270</p>
+              <p class="text-sm text-neutral-500">Text / Call</p>
+              <a href="mailto:beautysleepstudiopdx@gmail.com" class="text-brand-600 hover:text-brand-700 text-sm mt-1 inline-block transition">beautysleepstudiopdx@gmail.com</a>
+            </div>
+          </div>
+
+          <div>
+            <h3 class="text-xs uppercase tracking-[0.2em] text-neutral-400 mb-3">Hours</h3>
+            <div class="grid grid-cols-2 gap-y-2 text-sm max-w-xs">
+              <span class="text-neutral-500">Monday</span><span class="font-medium">Closed</span>
+              <span class="text-neutral-500">Tuesday–Friday</span><span class="font-medium">10:00am – 8:00pm</span>
+              <span class="text-neutral-500">Saturday</span><span class="font-medium">Closed</span>
+              <span class="text-neutral-500">Sunday</span><span class="font-medium">Closed</span>
+            </div>
+          </div>
+
+          <div>
+            <h3 class="text-xs uppercase tracking-[0.2em] text-neutral-400 mb-3">How to Find Me</h3>
+            <p class="text-neutral-600 text-sm leading-relaxed">I'm located on the corner of NW 20th and Overton in a blue house called Overton Center. When you walk in, the waiting area will be to your right. There's street parking that is pay to park.</p>
+          </div>
+
+          <div class="flex gap-4">
+            <a href="https://www.instagram.com" target="_blank" class="w-10 h-10 bg-neutral-100 rounded-full flex items-center justify-center text-neutral-500 hover:bg-brand-100 hover:text-brand-600 transition">
+              <i class="fab fa-instagram"></i>
+            </a>
+          </div>
+        </div>
+
+        <!-- Contact Form (Netlify Forms) -->
+        <div class="card !p-8 md:!p-10">
+          <h3 class="text-xl font-serif mb-6">Get In Touch</h3>
+          <form name="contact" method="POST" data-netlify="true" netlify-honeypot="bot-field" class="space-y-5">
+            <input type="hidden" name="form-name" value="contact">
+            <p class="hidden"><label>Don't fill this out: <input name="bot-field"></label></p>
+            <div class="grid sm:grid-cols-2 gap-4">
+              <div>
+                <label for="name" class="block text-xs uppercase tracking-wider text-neutral-400 mb-2">Name</label>
+                <input type="text" id="name" name="name" required
+                       class="w-full border border-neutral-200 rounded-xl px-4 py-3 text-sm focus:outline-none focus:ring-2 focus:ring-brand-200 focus:border-brand-400 transition">
+              </div>
+              <div>
+                <label for="email" class="block text-xs uppercase tracking-wider text-neutral-400 mb-2">Email</label>
+                <input type="email" id="email" name="email" required
+                       class="w-full border border-neutral-200 rounded-xl px-4 py-3 text-sm focus:outline-none focus:ring-2 focus:ring-brand-200 focus:border-brand-400 transition">
+              </div>
+            </div>
+            <div>
+              <label for="service" class="block text-xs uppercase tracking-wider text-neutral-400 mb-2">Service Interest</label>
+              <select id="service" name="service"
+                      class="w-full border border-neutral-200 rounded-xl px-4 py-3 text-sm focus:outline-none focus:ring-2 focus:ring-brand-200 focus:border-brand-400 transition bg-white">
+                <option value="">Select a service...</option>
+                <option value="classic-extensions">Classic Lash Extensions</option>
+                <option value="hybrid-extensions">Hybrid Lash Extensions</option>
+                <option value="volume-extensions">Volume Lash Extensions</option>
+                <option value="lash-lift-tint">Lash Lift + Tint</option>
+                <option value="lash-lift">Lash Lift Only</option>
+                <option value="brow-lamination">Brow Lamination</option>
+                <option value="other">Other / General Question</option>
+              </select>
+            </div>
+            <div>
+              <label for="message" class="block text-xs uppercase tracking-wider text-neutral-400 mb-2">Message</label>
+              <textarea id="message" name="message" rows="4" required
+                        class="w-full border border-neutral-200 rounded-xl px-4 py-3 text-sm focus:outline-none focus:ring-2 focus:ring-brand-200 focus:border-brand-400 transition resize-none"></textarea>
+            </div>
+            <button type="submit" class="btn-primary w-full justify-center">Send Message</button>
+          </form>
+          <p class="text-center text-xs text-neutral-400 mt-4">We'll reply within 24 hours</p>
+        </div>
+      </div>
+    </div>
+  </section>
+
+  <!-- FOOTER -->
+  <footer class="bg-charcoal text-white py-16">
+    <div class="max-w-7xl mx-auto px-6 lg:px-8">
+      <div class="grid md:grid-cols-3 gap-12 mb-12">
+        <div>
+          <span class="text-2xl font-serif">Beauty Sleep</span>
+          <span class="block text-[10px] uppercase tracking-[0.35em] text-white/50 mt-0.5">Studio PDX</span>
+          <p class="text-white/50 text-sm mt-4 leading-relaxed">Premium lash extensions, lifts, and brow lamination in Portland's Nob Hill.</p>
+        </div>
+        <div>
+          <h4 class="text-xs uppercase tracking-[0.2em] text-white/40 mb-4">Quick Links</h4>
+          <div class="space-y-2">
+            <a href="#services" class="block text-sm text-white/70 hover:text-white transition">Services</a>
+            <a href="#portfolio" class="block text-sm text-white/70 hover:text-white transition">Portfolio</a>
+            <a href="#about" class="block text-sm text-white/70 hover:text-white transition">About</a>
+            <a href="#contact" class="block text-sm text-white/70 hover:text-white transition">Contact</a>
+            <a href="https://square.site/book/DYKA7NPF92BP7/beauty-sleep-studio-portland-or" target="_blank" class="block text-sm text-brand-400 hover:text-brand-300 transition">Book Online</a>
+          </div>
+        </div>
+        <div>
+          <h4 class="text-xs uppercase tracking-[0.2em] text-white/40 mb-4">Studio</h4>
+          <p class="text-sm text-white/70 leading-relaxed">1308 NW 20th Ave, Suite 4<br>Portland, OR 97209</p>
+          <p class="text-sm text-white/70 mt-2">Tue–Fri: 10am – 8pm</p>
+          <p class="text-sm text-white/50 mt-4">928-499-1270</p>
+        </div>
+      </div>
+      <div class="border-t border-white/10 pt-8 flex flex-col sm:flex-row justify-between items-center gap-4">
+        <p class="text-xs text-white/30">&copy; <span id="year"></span> Beauty Sleep Studio PDX. All rights reserved.</p>
+        <p class="text-xs text-white/30">Licensed Esthetician &bull; Haley</p>
+      </div>
+    </div>
+  </footer>
+
+  <script>
+    document.getElementById('year').textContent = new Date().getFullYear();
+
+    const navbar = document.getElementById('navbar');
+    const navLogo = document.getElementById('nav-logo');
+    const navSub = document.getElementById('nav-sub');
+    const navLinks = document.querySelectorAll('[data-nav-link]');
+    const mobileToggle = document.getElementById('mobile-toggle');
+    const mobileMenu = document.getElementById('mobile-menu');
+
+    function updateNav() {
+      const scrolled = window.scrollY > 80;
+      navbar.classList.toggle('bg-transparent', !scrolled);
+      navbar.classList.toggle('bg-white', scrolled);
+      navbar.classList.toggle('shadow-sm', scrolled);
+      navLogo.classList.toggle('text-white', !scrolled);
+      navLogo.classList.toggle('text-charcoal', scrolled);
+      navSub.classList.toggle('text-white/70', !scrolled);
+      navSub.classList.toggle('text-neutral-400', scrolled);
+      navLinks.forEach(link => {
+        link.classList.toggle('text-white/80', !scrolled);
+        link.classList.toggle('hover:text-white', !scrolled);
+        link.classList.toggle('text-neutral-600', scrolled);
+        link.classList.toggle('hover:text-brand-600', scrolled);
+      });
+      mobileToggle.classList.toggle('text-white', !scrolled);
+      mobileToggle.classList.toggle('text-charcoal', scrolled);
+    }
+
+    window.addEventListener('scroll', updateNav, { passive: true });
+    updateNav();
+
+    mobileToggle.addEventListener('click', () => {
+      mobileMenu.classList.toggle('hidden');
+      const icon = mobileToggle.querySelector('i');
+      icon.classList.toggle('fa-bars');
+      icon.classList.toggle('fa-xmark');
+    });
+
+    function closeMobile() {
+      mobileMenu.classList.add('hidden');
+      const icon = mobileToggle.querySelector('i');
+      icon.classList.add('fa-bars');
+      icon.classList.remove('fa-xmark');
+    }
+
+    const observer = new IntersectionObserver((entries) => {
+      entries.forEach(entry => {
+        if (entry.isIntersecting) {
+          entry.target.classList.add('slide-up');
+          observer.unobserve(entry.target);
+        }
+      });
+    }, { threshold: 0.1, rootMargin: '0px 0px -50px 0px' });
+
+    document.querySelectorAll('.card, .faq-item').forEach(el => {
+      observer.observe(el);
+    });
+  </script>
+</body>
+</html>
