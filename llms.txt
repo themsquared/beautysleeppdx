@@ -1,0 +1,31 @@
+# Beauty Sleep Studio PDX
+
+> Portland's premier lash extension, lash lift, and brow lamination studio in the Nob Hill neighborhood. Licensed esthetician Haley has been perfecting lashes since 2008.
+
+## Location
+1308 NW 20th Ave, Suite 4, Portland, OR 97209
+Nob Hill / Northwest Portland
+
+## Contact
+- Phone: 928-499-1270 (call or text)
+- Email: beautysleepstudiopdx@gmail.com
+- Book online: https://square.site/book/DYKA7NPF92BP7/beauty-sleep-studio-portland-or
+
+## Hours
+Tuesday–Friday: 10:00am–8:00pm
+Monday, Saturday, Sunday: Closed
+
+## Services
+- Classic Lash Extensions: $180 (fills from $80)
+- Hybrid Lash Extensions: $210 (fills from $90)
+- Volume Lash Extensions: $260 (fills from $120)
+- Lash Lift + Tint: $100
+- Lash Lift Only: $85
+- Lash Tint Only: $30
+- Brow Lamination: Available (ask in booking notes)
+
+## About
+Haley is a licensed esthetician since 2008 specializing in lash extensions, lash lifts, and brow lamination in Portland, Oregon.
+
+## Detailed info
+- llms-full.txt: https://www.beautysleepstudiopdx.com/llms-full.txt
