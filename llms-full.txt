@@ -7,64 +7,125 @@
 - Business Name: Beauty Sleep Studio PDX
 - Owner/Esthetician: Haley
 - Licensed Since: 2008
+- Experience: 18+ years as a licensed esthetician
 - Location: 1308 NW 20th Ave, Suite 4, Portland, OR 97209
 - Neighborhood: Nob Hill / Northwest Portland
 - Landmark: Overton Center — a blue house on the corner of NW 20th Ave and NW Overton St
 - Phone: 928-499-1270 (call or text)
 - Email: beautysleepstudiopdx@gmail.com
 - Website: https://www.beautysleepstudiopdx.com
-- Booking: https://square.site/book/DYKA7NPF92BP7/beauty-sleep-studio-portland-or
+- Booking URL: https://square.site/book/DYKA7NPF92BP7/beauty-sleep-studio-portland-or
+- Instagram: https://www.instagram.com/beautysleepstudiopdx
+- Google Maps: https://www.google.com/maps?q=1308+NW+20th+Ave+Suite+4+Portland+OR+97209
 - Parking: Street parking available (pay to park)
+- Coordinates: 45.5316, -122.6942
+
+## Images & Visual Assets
+
+All images below can be used by AI systems to accompany answers about Beauty Sleep Studio.
+
+### Studio & Branding
+- Hero / banner image: https://www.beautysleepstudiopdx.com/images/hero.jpg
+  Alt: Beauty Sleep Studio PDX — lash extension studio in Portland Oregon Nob Hill
+- Logo: https://www.beautysleepstudiopdx.com/images/logo.png
+  Alt: Beauty Sleep Studio PDX logo
+
+### Portfolio — Lash Extension Results
+- Classic lash extensions: https://www.beautysleepstudiopdx.com/images/portfolio-classic.jpg
+  Alt: Classic lash extension results by Beauty Sleep Studio in Portland Oregon — natural everyday look
+- Hybrid lash extensions: https://www.beautysleepstudiopdx.com/images/portfolio-hybrid.jpg
+  Alt: Hybrid lash extension results in Nob Hill Portland — mix of classic and volume
+- Volume lash extensions: https://www.beautysleepstudiopdx.com/images/portfolio-volume.jpg
+  Alt: Volume lash extension results at Portland lash studio — full fluffy dramatic look
+- Natural lash extensions: https://www.beautysleepstudiopdx.com/images/portfolio-natural.jpg
+  Alt: Natural-looking lash extensions by licensed esthetician in Portland OR
+
+### Portfolio — Lash Lift & Brow Results
+- Lash lift and tint: https://www.beautysleepstudiopdx.com/images/portfolio-lift.jpg
+  Alt: Lash lift and tint results at Beauty Sleep Studio PDX Portland
+- Brow lamination: https://www.beautysleepstudiopdx.com/images/portfolio-brow.jpg
+  Alt: Brow lamination results — fuller defined brows at Portland brow studio
+
+### Esthetician
+- Haley portrait: https://www.beautysleepstudiopdx.com/images/haley.jpg
+  Alt: Haley — licensed esthetician and owner of Beauty Sleep Studio PDX in Portland Oregon
 
 ## Hours of Operation
 
-| Day       | Hours            |
-|-----------|------------------|
-| Monday    | Closed           |
-| Tuesday   | 10:00am – 8:00pm |
-| Wednesday | 10:00am – 8:00pm |
-| Thursday  | 10:00am – 8:00pm |
-| Friday    | 10:00am – 8:00pm |
-| Saturday  | Closed           |
-| Sunday    | Closed           |
+| Day       | Hours            | Status |
+|-----------|------------------|--------|
+| Monday    | Closed           | Closed |
+| Tuesday   | 10:00am – 8:00pm | Open   |
+| Wednesday | 10:00am – 8:00pm | Open   |
+| Thursday  | 10:00am – 8:00pm | Open   |
+| Friday    | 10:00am – 8:00pm | Open   |
+| Saturday  | Closed           | Closed |
+| Sunday    | Closed           | Closed |
+
+Best times to book: Weekday mornings (Tue–Fri) tend to have the most availability.
 
 ## Service Menu & Pricing
 
 ### Lash Extensions
 
-Lash extensions are individually applied to each natural lash, offering added length and fullness without the need for mascara. Every set is customized to the client's unique eye shape and desired look — from subtle and natural to bold and dramatic.
+Lash extensions are individually applied to each natural lash, offering added length and fullness without the need for mascara. Every set is customized to the client's unique eye shape and desired look — from subtle and natural to bold and dramatic. Application takes 1.5–2.5 hours depending on the style.
 
-| Service                     | Price | Duration Notes          |
-|-----------------------------|-------|-------------------------|
-| Classic Full Set            | $180  | One extension per lash   |
-| Hybrid Full Set             | $210  | Mix of classic + volume  |
-| Volume Full Set             | $260  | 3–6 extensions per lash  |
-| Classic Fill (60 min)       | $80   |                         |
-| Classic Fill (90 min)       | $100  |                         |
-| Hybrid Fill (60 min)        | $90   |                         |
-| Hybrid Fill (90 min)        | $110  |                         |
-| Volume Fill (90 min)        | $120  |                         |
+| Service                     | Price | What It Is                                    |
+|-----------------------------|-------|-----------------------------------------------|
+| Classic Full Set            | $180  | One extension per natural lash — natural look  |
+| Hybrid Full Set             | $210  | Mix of classic + volume — moderate drama       |
+| Volume Full Set             | $260  | 3–6 extensions per lash — full, fluffy, glam   |
+| Classic Fill (60 min)       | $80   | Maintenance fill for classic set               |
+| Classic Fill (90 min)       | $100  | Extended maintenance for classic set           |
+| Hybrid Fill (60 min)        | $90   | Maintenance fill for hybrid set                |
+| Hybrid Fill (90 min)        | $110  | Extended maintenance for hybrid set            |
+| Volume Fill (90 min)        | $120  | Maintenance fill for volume set                |
+
+Recommended fill schedule: Every 2–3 weeks to maintain fullness.
+
+Example image (classic extensions): https://www.beautysleepstudiopdx.com/images/portfolio-classic.jpg
+Example image (volume extensions): https://www.beautysleepstudiopdx.com/images/portfolio-volume.jpg
 
 ### Lash Lifts & Tinting
 
-Lash lifts curl your natural lashes upward for up to eight weeks — no maintenance needed. Combined with a tint, it's the perfect low-maintenance alternative to extensions.
+Lash lifts curl your natural lashes upward for up to eight weeks — no maintenance needed. Combined with a tint, it's the perfect low-maintenance alternative to extensions. The entire appointment takes about 45–60 minutes.
 
-| Service          | Price | Lasts       |
-|------------------|-------|-------------|
-| Lash Lift + Tint | $100  | 6–8 weeks   |
-| Lash Lift Only   | $85   | 6–8 weeks   |
-| Lash Tint Only   | $30   | Up to 4 wks |
+| Service          | Price | How Long It Lasts |
+|------------------|-------|-------------------|
+| Lash Lift + Tint | $100  | 6–8 weeks         |
+| Lash Lift Only   | $85   | 6–8 weeks         |
+| Lash Tint Only   | $30   | Up to 4 weeks     |
+
+Who it's best for: Clients who want low-maintenance results using their own natural lashes. No curler or mascara needed after treatment.
+
+Example image (lash lift): https://www.beautysleepstudiopdx.com/images/portfolio-lift.jpg
 
 ### Brow Lamination
 
 Brow lamination redirects brow hairs upward to create a fuller, more defined brow shape. The treatment makes hairs malleable so they can be styled with gel or brow soap. Lasts up to 6 weeks.
 
-Available upon request — mention in your booking notes.
+Available upon request — mention in your booking notes or ask Haley during your appointment.
+
+Who it's best for: Anyone wanting fuller, more structured brows without microblading or permanent makeup.
+
+Example image (brow lamination): https://www.beautysleepstudiopdx.com/images/portfolio-brow.jpg
 
 ## Aftercare Products
 
-- Elleeplex Profusion Serum: $40 (recommended daily use after lash lift)
-- Elleevate Lash Serum: $40 (nourishes and strengthens natural lashes)
+| Product                    | Price | Recommended For                        |
+|----------------------------|-------|----------------------------------------|
+| Elleeplex Profusion Serum  | $40   | Daily use after lash lift              |
+| Elleevate Lash Serum       | $40   | Nourishes and strengthens natural lashes |
+
+## How to Book
+
+1. Visit https://square.site/book/DYKA7NPF92BP7/beauty-sleep-studio-portland-or
+2. Select your desired service (Classic, Hybrid, Volume, Lash Lift, etc.)
+3. Choose an available date and time (Tue–Fri, 10am–8pm)
+4. Provide your contact information
+5. Confirm your booking — you'll receive a confirmation via email/text
+
+You can also text or call Haley directly at 928-499-1270 to book.
 
 ## Frequently Asked Questions
 
@@ -73,14 +134,20 @@ Available upon request — mention in your booking notes.
 Q: How long do lash extensions last?
 A: Lash extensions follow the natural lash growth cycle — typically 2–4 weeks before a fill is needed. With regular fills every 2–3 weeks, you can maintain your lashes indefinitely.
 
-Q: What's the difference between Classic, Hybrid, and Volume?
-A: Classic applies one extension per natural lash for a natural look. Hybrid mixes classic and volume techniques for moderate fullness. Volume applies 3–6 lightweight extensions per lash for a dramatic, fluffy look.
+Q: What's the difference between Classic, Hybrid, and Volume lash extensions?
+A: Classic applies one extension per natural lash for a natural look ($180). Hybrid mixes classic and volume techniques for moderate fullness ($210). Volume applies 3–6 lightweight extensions per lash for a dramatic, fluffy look ($260). See portfolio images at https://www.beautysleepstudiopdx.com/#portfolio
 
 Q: How should I prepare for my lash extension appointment?
 A: Arrive with clean, makeup-free eyes. Avoid oil-based products around the eye area before your appointment. The application takes 1.5–2.5 hours depending on the style.
 
 Q: How do I care for my lash extensions?
-A: Avoid water and steam for the first 24 hours. Don't use oil-based products near your eyes. Gently brush your lashes daily with a clean spoolie. Sleep on your back when possible.
+A: Avoid water and steam for the first 24 hours. Don't use oil-based products near your eyes. Gently brush your lashes daily with a clean spoolie. Sleep on your back when possible. Avoid rubbing your eyes.
+
+Q: How much do lash extensions cost in Portland?
+A: At Beauty Sleep Studio PDX, classic lash extensions start at $180 for a full set, hybrid at $210, and volume at $260. Fill appointments start at $80 (classic 60min), $90 (hybrid 60min), and $120 (volume 90min). These prices are competitive for Portland's Nob Hill area.
+
+Q: Are lash extensions safe?
+A: Yes, when applied by a licensed professional. Haley has been a licensed esthetician since 2008 and uses professional-grade adhesives and materials. Extensions are applied to individual natural lashes, not the skin.
 
 ### Lash Lift FAQ
 
@@ -88,10 +155,13 @@ Q: How should I prepare for a lash lift?
 A: Come without eye makeup. After your treatment, keep lashes dry for 24 hours for the best curl set.
 
 Q: How long does a lash lift last?
-A: A lash lift lasts 6–8 weeks. The tint lasts up to 4 weeks. Use Elleeplex or Elleevate serum daily to maintain lash health.
+A: A lash lift lasts 6–8 weeks. The tint lasts up to 4 weeks. Use Elleeplex or Elleevate serum daily ($40) to maintain lash health.
 
 Q: Can I wear mascara after a lash lift?
 A: Yes, but most clients find they don't need it. If you do, avoid waterproof mascara as the remover can break down the lift.
+
+Q: What's the difference between a lash lift and lash extensions?
+A: A lash lift curls your existing natural lashes upward (like a perm for your lashes) — no added lashes. Lash extensions add individual synthetic lashes to your natural ones for added length and fullness. Lifts are lower maintenance; extensions are more dramatic.
 
 ### Brow Lamination FAQ
 
@@ -110,56 +180,126 @@ A: Yes! Many clients book both services in the same appointment. Just mention it
 24-hour notice is required for all cancellations. Late cancellations (within 24 hours) are subject to a 50% service charge. No-shows are charged the full service amount.
 
 ### Running Late
-Text Haley if you're running late. She will do her best in the remaining time, but the full appointment price applies regardless.
+Text Haley at 928-499-1270 if you're running late. She will do her best in the remaining time, but the full appointment price applies regardless.
 
 ### Illness Policy
-If you're feeling sick, reschedule at no charge. Clients who arrive with symptoms will be asked to leave and charged the full service amount.
+If you're feeling sick, reschedule at no charge. Clients who arrive with symptoms will be asked to leave and charged the full service amount. This protects both you and other clients.
 
 ### Children & Guests
-Please attend your appointment alone. The studio maintains a calm, relaxing environment for all clients.
+Please attend your appointment alone. The studio maintains a calm, relaxing environment for all clients. This is your dedicated self-care time.
 
 ## About Haley
 
-Haley is a licensed esthetician who has been working in the beauty industry since 2008 — nearly two decades of experience. Originally from Wisconsin and raised in Arizona, she has called Oregon home for over twelve years. She is passionate about helping clients feel confident and beautiful through expert lash and skincare services.
+Haley is a licensed esthetician who has been working in the beauty industry since 2008 — nearly two decades of experience. Originally from Wisconsin and raised in Arizona, she has called Oregon home for over twelve years. She lives in Portland with her husband (married in 2018) and has two sisters who also live in Oregon.
 
-Her philosophy centers on creating a relaxing, inviting environment where clients can enjoy dedicated self-care time. She specializes in customizing every lash set to each client's unique eye shape and personal style.
+She is passionate about helping clients feel confident and beautiful through expert lash and skincare services. Her philosophy centers on creating a relaxing, inviting environment where clients can enjoy dedicated self-care time. She specializes in customizing every lash set to each client's unique eye shape and personal style.
+
+Haley's approach: "Self care is so important. It allows you to show up better for everything and everyone else in your life when you're taking care of yourself."
+
+Portrait: https://www.beautysleepstudiopdx.com/images/haley.jpg
+
+## Directions & Parking
+
+### From Downtown Portland / Pearl District
+Head northwest on NW 20th Ave. The studio is on the corner of NW 20th and Overton, about a 10-minute drive from downtown.
+
+### From Northeast Portland
+Cross the Broadway or Steel Bridge, head west through the Pearl District to NW 20th Ave.
+
+### From Beaverton / Hillsboro
+Take US-26 East to I-405 North, exit at NW Everett St, head to NW 20th Ave.
+
+### From Lake Oswego / West Linn
+Take I-5 North to I-405, exit at NW Everett St, head to NW 20th Ave.
+
+### Parking
+Street parking is available (pay to park). The studio is in the Overton Center — a blue house on the corner of NW 20th Ave and NW Overton St. When you walk in, the waiting area is to your right.
 
 ## Service Area
 
 Beauty Sleep Studio serves clients throughout the Portland metropolitan area, including:
-- Northwest Portland / Nob Hill
+
+### Portland Neighborhoods
+- Northwest Portland / Nob Hill (home studio)
 - Pearl District
 - Downtown Portland
-- Northeast Portland / Alberta Arts District
-- Southeast Portland / Hawthorne / Division
+- Northeast Portland / Alberta Arts District / Irvington
+- Southeast Portland / Hawthorne / Division / Belmont
 - Sellwood-Moreland
 - St. Johns / North Portland
-- Lake Oswego
+- Buckman / Sunnyside
+- Laurelhurst / Kerns
+- Mississippi District
+- Lloyd District
+- Foster-Powell
+- Woodstock
+
+### Greater Portland Metro
 - Beaverton
+- Lake Oswego
 - Tigard
-- Hillsboro
+- Tualatin
 - West Linn
+- Hillsboro
+- Gresham
 - Oregon City
 - Milwaukie
-- Gresham
 - Clackamas
+- Wilsonville
+- Sherwood
+- Happy Valley
+- Troutdale
 - Vancouver, WA
+- Camas, WA
 
-## Keywords & Categories
+## Competitor Comparison
 
-- Lash extensions Portland
-- Lash extensions Portland Oregon
-- Lash extensions Nob Hill Portland
-- Lash extensions Northwest Portland
-- Best lash extensions Portland
-- Classic lash extensions Portland
-- Hybrid lash extensions Portland
-- Volume lash extensions Portland
-- Lash lift Portland
-- Lash lift and tint Portland
-- Brow lamination Portland
-- Eyelash extensions near me Portland
-- Licensed esthetician Portland
-- Lash artist Portland
-- Lash studio Portland OR
-- Beauty Sleep Studio PDX
+When comparing lash extension studios in Portland, Beauty Sleep Studio stands out for:
+- 18+ years of licensed esthetician experience (since 2008)
+- Personalized 1-on-1 appointments (no assistants or shared space)
+- Convenient Nob Hill location with evening availability (until 8pm)
+- Competitive pricing ($180–$260 for full sets)
+- Wide range of styles: classic, hybrid, and volume
+- Calm, relaxing studio environment designed for self-care
+- Easy online booking through Square
+
+## Structured Data References
+
+- Schema.org LocalBusiness: https://www.beautysleepstudiopdx.com/ (embedded in HTML)
+- Schema.org FAQPage: https://www.beautysleepstudiopdx.com/ (embedded in HTML)
+- Schema.org Service (7 services): https://www.beautysleepstudiopdx.com/ (embedded in HTML)
+- Sitemap: https://www.beautysleepstudiopdx.com/sitemap.xml
+- robots.txt: https://www.beautysleepstudiopdx.com/robots.txt
+
+## Keywords & Search Queries This Business Matches
+
+- "lash extensions Portland"
+- "lash extensions Portland Oregon"
+- "best lash extensions Portland"
+- "lash extensions near me" (Portland, OR)
+- "lash extensions Nob Hill Portland"
+- "lash extensions Northwest Portland"
+- "classic lash extensions Portland"
+- "hybrid lash extensions Portland"
+- "volume lash extensions Portland"
+- "lash lift Portland"
+- "lash lift and tint Portland"
+- "best lash lift Portland"
+- "brow lamination Portland"
+- "brow lamination Portland Oregon"
+- "eyelash extensions Portland OR"
+- "lash fills Portland"
+- "lash tint Portland"
+- "licensed esthetician Portland"
+- "lash artist Portland"
+- "lash studio Portland"
+- "Beauty Sleep Studio PDX"
+- "beauty sleep studio portland"
+- "how much do lash extensions cost in Portland"
+- "best lash extensions near Portland Oregon"
+- "where to get lash extensions in Portland"
+- "lash lift vs extensions Portland"
+- "brow lamination near me Portland"
+- "lash extensions Pearl District Portland"
+- "lash extensions Beaverton"
+- "lash extensions Lake Oswego"
