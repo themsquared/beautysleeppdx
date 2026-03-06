@@ -15,10 +15,10 @@ Lash extensions, lifts & brow lamination in Portland's Nob Hill — by licensed 
 
 ```bash
 npm install
-npm run dev        # watches src/styles.css → dist/styles.css
+npm run dev        # watches src/styles.css → ./styles.css
 ```
 
-Open `dist/index.html` in a browser (or use any local server).
+Open `index.html` in a browser (or use any local server).
 
 ## Build
 
@@ -26,14 +26,14 @@ Open `dist/index.html` in a browser (or use any local server).
 npm run build
 ```
 
-Compiles and minifies Tailwind CSS, copies `index.html` and `images/` into `dist/`.
+Compiles and minifies Tailwind CSS from `src/styles.css` into `./styles.css` at the project root.
 
 ## Deploy
 
 Push to a connected Git repo — Netlify handles the rest via `netlify.toml`:
 
 - **Build command:** `npm run build`
-- **Publish directory:** `dist`
+- **Publish directory:** `.` (project root)
 - **Functions directory:** `netlify/functions`
 
 ### Environment variables (optional)
@@ -55,6 +55,6 @@ Set these in the Netlify dashboard to enable form submission notifications:
 ├── netlify.toml               # Build config, headers, redirects
 ├── netlify/functions/
 │   └── submission-created.js  # Fires on every form submission
-├── images/                    # Local images (copied to dist)
-└── dist/                      # Built output (gitignored)
+├── styles.css                 # Built output (gitignored)
+└── images/                    # Local images
 ```
