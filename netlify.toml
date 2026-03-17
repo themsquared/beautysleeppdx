@@ -1,5 +1,5 @@
 [build]
-  command = "npm run build"
+  command = "npm run build && curl -s -o /dev/null -w '%{http_code}' -X POST 'https://api.indexnow.org/indexnow' -H 'Content-Type: application/json; charset=utf-8' -d '{\"host\":\"www.beautysleepstudiopdx.com\",\"key\":\"7c4a9e2f1d8b5c3e6a2f9d7b\",\"keyLocation\":\"https://www.beautysleepstudiopdx.com/7c4a9e2f1d8b5c3e6a2f9d7b.txt\",\"urlList\":[\"https://www.beautysleepstudiopdx.com/\"]}' || true"
   publish = "."
 
 [build.environment]
@@ -43,6 +43,12 @@
 
 [[headers]]
   for = "/llms-full.txt"
+  [headers.values]
+    Content-Type = "text/plain; charset=utf-8"
+    Cache-Control = "public, max-age=86400"
+
+[[headers]]
+  for = "/7c4a9e2f1d8b5c3e6a2f9d7b.txt"
   [headers.values]
     Content-Type = "text/plain; charset=utf-8"
     Cache-Control = "public, max-age=86400"

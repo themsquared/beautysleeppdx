@@ -28,9 +28,9 @@
   <meta property="og:description" content="Portland's premier lash extension, lash lift & brow lamination studio in Nob Hill. Licensed esthetician Haley has been perfecting lashes since 2008. Book your appointment online.">
   <meta property="og:type" content="business.business">
   <meta property="og:url" content="https://www.beautysleepstudiopdx.com/">
-  <meta property="og:image" content="https://images.unsplash.com/photo-1560066984-138dadb4c035?w=1200&q=80">
-  <meta property="og:image:width" content="1200">
-  <meta property="og:image:height" content="630">
+  <meta property="og:image" content="https://www.beautysleepstudiopdx.com/images/portfolio/IMG_5702.jpg">
+  <meta property="og:image:width" content="3987">
+  <meta property="og:image:height" content="5316">
   <meta property="og:image:alt" content="Beauty Sleep Studio PDX — Lash Extensions in Portland Oregon">
   <meta property="og:site_name" content="Beauty Sleep Studio PDX">
   <meta property="og:locale" content="en_US">
@@ -46,7 +46,7 @@
   <meta name="twitter:card" content="summary_large_image">
   <meta name="twitter:title" content="Best Lash Extensions in Portland | Beauty Sleep Studio PDX">
   <meta name="twitter:description" content="Classic, hybrid & volume lash extensions, lash lifts & brow lamination in Portland's Nob Hill. Book with licensed esthetician Haley.">
-  <meta name="twitter:image" content="https://images.unsplash.com/photo-1560066984-138dadb4c035?w=1200&q=80">
+  <meta name="twitter:image" content="https://www.beautysleepstudiopdx.com/images/portfolio/IMG_5702.jpg">
   <meta name="twitter:image:alt" content="Beauty Sleep Studio PDX — Lash Extensions Portland Oregon">
 
   <!-- Schema.org JSON-LD: LocalBusiness -->
@@ -61,7 +61,7 @@
     "url": "https://www.beautysleepstudiopdx.com",
     "telephone": "+1-928-499-1270",
     "email": "beautysleepstudiopdx@gmail.com",
-    "image": "https://images.unsplash.com/photo-1560066984-138dadb4c035?w=1200&q=80",
+    "image": "https://www.beautysleepstudiopdx.com/images/portfolio/IMG_5702.jpg",
     "logo": "https://www.beautysleepstudiopdx.com/images/logo.png",
     "priceRange": "$30–$260",
     "currenciesAccepted": "USD",
@@ -110,6 +110,23 @@
     "sameAs": [
       "https://www.instagram.com/beautysleepstudiopdx"
     ],
+    "contactPoint": {
+      "@type": "ContactPoint",
+      "telephone": "+1-928-499-1270",
+      "email": "beautysleepstudiopdx@gmail.com",
+      "contactType": "reservations",
+      "areaServed": "US-OR",
+      "availableLanguage": "English"
+    },
+    "serviceArea": {
+      "@type": "GeoCircle",
+      "geoMidpoint": {
+        "@type": "GeoCoordinates",
+        "latitude": 45.5316,
+        "longitude": -122.6942
+      },
+      "geoRadius": "30000"
+    },
     "aggregateRating": {
       "@type": "AggregateRating",
       "ratingValue": "5.0",
@@ -422,14 +439,88 @@
   }
   </script>
 
+  <!-- Schema.org JSON-LD: WebPage + SpeakableSpecification (AEO / voice search) -->
+  <script type="application/ld+json">
+  {
+    "@context": "https://schema.org",
+    "@type": "WebPage",
+    "@id": "https://www.beautysleepstudiopdx.com/#webpage",
+    "url": "https://www.beautysleepstudiopdx.com/",
+    "name": "Beauty Sleep Studio PDX — Portland's Best Lash Extensions, Lash Lifts & Brow Lamination",
+    "description": "Portland's premier lash extension, lash lift, and brow lamination studio in Nob Hill. Licensed esthetician Haley has been perfecting lashes since 2008.",
+    "inLanguage": "en-US",
+    "isPartOf": { "@id": "https://www.beautysleepstudiopdx.com/#website" },
+    "about": { "@id": "https://www.beautysleepstudiopdx.com/#business" },
+    "mainEntity": { "@id": "https://www.beautysleepstudiopdx.com/#business" },
+    "speakable": {
+      "@type": "SpeakableSpecification",
+      "cssSelector": ["h1", "h2", "#about p", "#faq-extensions summary", ".section-heading"]
+    },
+    "breadcrumb": { "@id": "https://www.beautysleepstudiopdx.com/#breadcrumb" }
+  }
+  </script>
+
+  <!-- Schema.org JSON-LD: Person — Haley -->
+  <script type="application/ld+json">
+  {
+    "@context": "https://schema.org",
+    "@type": "Person",
+    "@id": "https://www.beautysleepstudiopdx.com/#haley",
+    "name": "Haley",
+    "jobTitle": "Licensed Esthetician",
+    "description": "Licensed esthetician since 2008, specializing in lash extensions, lash lifts, and brow lamination in Portland's Nob Hill neighborhood.",
+    "worksFor": { "@id": "https://www.beautysleepstudiopdx.com/#business" },
+    "hasCredential": {
+      "@type": "EducationalOccupationalCredential",
+      "credentialCategory": "license",
+      "name": "Oregon Licensed Esthetician",
+      "recognizedBy": { "@type": "Organization", "name": "Oregon Health Licensing Office" },
+      "dateCreated": "2008"
+    },
+    "knowsAbout": [
+      "Lash Extensions", "Classic Lash Extensions", "Hybrid Lash Extensions", "Volume Lash Extensions",
+      "Lash Lifts", "Lash Tint", "Brow Lamination", "Skincare", "Esthetics"
+    ],
+    "sameAs": ["https://www.instagram.com/beautysleepstudiopdx"]
+  }
+  </script>
+
+  <!-- Schema.org JSON-LD: ItemList — Services -->
+  <script type="application/ld+json">
+  {
+    "@context": "https://schema.org",
+    "@type": "ItemList",
+    "name": "Lash & Beauty Services at Beauty Sleep Studio Portland",
+    "description": "Complete list of lash extension, lash lift, and brow lamination services at Beauty Sleep Studio PDX in Portland, Oregon.",
+    "url": "https://www.beautysleepstudiopdx.com/#services",
+    "numberOfItems": 7,
+    "itemListElement": [
+      { "@type": "ListItem", "position": 1, "name": "Classic Lash Extensions — $180 full set" },
+      { "@type": "ListItem", "position": 2, "name": "Hybrid Lash Extensions — $210 full set" },
+      { "@type": "ListItem", "position": 3, "name": "Volume Lash Extensions — $260 full set" },
+      { "@type": "ListItem", "position": 4, "name": "Lash Lift and Tint — $100" },
+      { "@type": "ListItem", "position": 5, "name": "Lash Lift Only — $85" },
+      { "@type": "ListItem", "position": 6, "name": "Lash Tint Only — $30" },
+      { "@type": "ListItem", "position": 7, "name": "Brow Lamination — inquire in booking notes" }
+    ]
+  }
+  </script>
+
   <!-- LLM/AI discovery -->
   <link rel="alternate" type="text/plain" href="/llms.txt" title="LLM-readable business information">
   <link rel="alternate" type="text/plain" href="/llms-full.txt" title="LLM-readable full business details">
 
-  <!-- Preconnect for performance -->
+  <!-- IndexNow -->
+  <meta name="indexnow-key" content="7c4a9e2f1d8b5c3e6a2f9d7b">
+
+  <!-- Preload LCP hero image -->
+  <link rel="preload" as="image" href="images/portfolio/IMG_5702.jpg">
+
+  <!-- Preconnect / DNS prefetch for performance -->
   <link rel="preconnect" href="https://fonts.googleapis.com">
   <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-  <link rel="preconnect" href="https://images.unsplash.com">
+  <link rel="dns-prefetch" href="//square.site">
+  <link rel="dns-prefetch" href="//cdnjs.cloudflare.com">
 
   <!-- Stylesheets -->
   <link rel="stylesheet" href="./styles.css">
