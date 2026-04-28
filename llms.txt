@@ -33,7 +33,7 @@ Google Maps / Business Profile: https://maps.app.goo.gl/cb6aa6dYKL7RugJ88
 ## Images
 - Hero / social share: https://www.beautysleepstudiopdx.com/images/portfolio/IMG_5702.jpg
 - Portfolio gallery: https://www.beautysleepstudiopdx.com/#portfolio
-- Haley portrait: https://www.beautysleepstudiopdx.com/images/haley.jpg
+- Haley portrait: https://www.beautysleepstudiopdx.com/images/haley-v2.jpg
 - Logo: https://www.beautysleepstudiopdx.com/images/logo.png
 
 ## About
@@ -42,5 +42,5 @@ Haley is a licensed Oregon esthetician with 13+ years specializing in lash exten
 ## Service Area
 Portland metro and surrounding cities: Nob Hill, Pearl District, Northwest Portland, Beaverton, Lake Oswego, Tigard, West Linn, Hillsboro, Gresham, Oregon City, Milwaukie, Vancouver WA, and more.
 
-## Detailed info
+## Optional
 - llms-full.txt: https://www.beautysleepstudiopdx.com/llms-full.txt

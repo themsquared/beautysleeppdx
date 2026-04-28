@@ -377,6 +377,22 @@
       },
       {
         "@type": "Question",
+        "name": "What about LED-cured lash extensions?",
+        "acceptedAnswer": {
+          "@type": "Answer",
+          "text": "Beauty Sleep Studio uses traditional cyanoacrylate adhesive rather than LED/UV-cured systems. Traditional adhesive has decades of proven safety data, bonds in seconds without UV exposure near the eyes, and allows precise repositioning during application. Haley prefers the control and track record of traditional adhesive for the best results and client safety."
+        }
+      },
+      {
+        "@type": "Question",
+        "name": "What should I expect at my first lash extension appointment?",
+        "acceptedAnswer": {
+          "@type": "Answer",
+          "text": "Your first full set takes about 2 to 2.5 hours. Arrive with clean, makeup-free eyes. Haley will consult on your natural lash strength, eye shape, and desired look before selecting the right style, length, and curl. You lie down on a treatment table with a blanket while she works. Most clients relax or fall asleep. Before you leave, she walks through aftercare: avoid water for 24 hours, skip oil-based products near your eyes, and brush daily with a clean spoolie."
+        }
+      },
+      {
+        "@type": "Question",
         "name": "How do I find a good lash artist in Portland?",
         "acceptedAnswer": {
           "@type": "Answer",
@@ -552,6 +568,10 @@
 
   <!-- Stylesheets -->
   <link rel="stylesheet" href="./styles.css">
+  <style>
+    .testimonial-slide { display: none; opacity: 0; transition: opacity 0.6s ease; }
+    .testimonial-slide.active { display: block; opacity: 1; }
+  </style>
   <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.6.0/css/all.min.css">
 </head>
 <body>
@@ -908,12 +928,42 @@
     <div class="max-w-4xl mx-auto px-6 lg:px-8 text-center">
       <p class="text-brand-400 text-xs uppercase tracking-[0.3em] mb-4">Why Portland Loves Us</p>
       <h2 class="font-serif text-2xl md:text-3xl mb-12">The Best Lash Extensions in Portland — According to Our Clients</h2>
-      <div id="testimonial-slider" class="relative">
-        <div class="testimonial-slide">
+      <div id="testimonial-slider" class="relative overflow-hidden">
+        <div class="testimonial-slide active">
           <blockquote class="font-serif text-2xl md:text-3xl leading-relaxed font-light mb-8">
             "Haley is absolutely amazing. I've been getting lash extensions for years and she's the best I've ever had. So relaxing and my lashes always look perfect."
           </blockquote>
-          <cite class="not-italic text-sm uppercase tracking-widest text-white/60">— Portland Client</cite>
+          <cite class="not-italic text-sm uppercase tracking-widest text-white/60">Portland Client</cite>
+        </div>
+        <div class="testimonial-slide">
+          <blockquote class="font-serif text-2xl md:text-3xl leading-relaxed font-light mb-8">
+            "She listened to what I wanted and has a very light touch. Lashes are so full and have great retention. Haley is such a pro!"
+          </blockquote>
+          <cite class="not-italic text-sm uppercase tracking-widest text-white/60">Claire Hong</cite>
+        </div>
+        <div class="testimonial-slide">
+          <blockquote class="font-serif text-2xl md:text-3xl leading-relaxed font-light mb-8">
+            "My lashes look defined and so much better after Haley's lash lift and tint. She makes the experience comfortable and fun!"
+          </blockquote>
+          <cite class="not-italic text-sm uppercase tracking-widest text-white/60">Anne Symes</cite>
+        </div>
+        <div class="testimonial-slide">
+          <blockquote class="font-serif text-2xl md:text-3xl leading-relaxed font-light mb-8">
+            "Her studio is SO comfortable and relaxing and she's always so nice and welcoming. I haven't experienced any irritations and she always checks to make sure everything feels alright."
+          </blockquote>
+          <cite class="not-italic text-sm uppercase tracking-widest text-white/60">Alina C</cite>
+        </div>
+        <div class="testimonial-slide">
+          <blockquote class="font-serif text-2xl md:text-3xl leading-relaxed font-light mb-8">
+            "Been seeing her for years now and there's no one else I'd trust to do my lash extensions. I always get compliments on them."
+          </blockquote>
+          <cite class="not-italic text-sm uppercase tracking-widest text-white/60">Samantha Maynes</cite>
+        </div>
+        <div class="testimonial-slide">
+          <blockquote class="font-serif text-2xl md:text-3xl leading-relaxed font-light mb-8">
+            "Her studio is super cozy and she has been extremely flexible with my crazy schedule. I have very thin and fine lashes and she exceeds my expectations every time."
+          </blockquote>
+          <cite class="not-italic text-sm uppercase tracking-widest text-white/60">Vanessa Magana</cite>
         </div>
       </div>
       <p class="text-white/40 text-sm mt-8">Lashing since 2013 • Nob Hill, Portland • Book online 24/7</p>
@@ -1011,6 +1061,20 @@
               <i class="fas fa-chevron-down faq-chevron text-sm"></i>
             </summary>
             <p class="pb-5 text-neutral-500 leading-relaxed">Yes. When applied by a licensed professional like Haley at Beauty Sleep Studio, lash extensions are safe. Each extension is bonded to a single natural lash (not the skin) with professional-grade adhesive.</p>
+          </details>
+          <details class="faq-item">
+            <summary>
+              <span>What about LED-cured lash extensions?</span>
+              <i class="fas fa-chevron-down faq-chevron text-sm"></i>
+            </summary>
+            <p class="pb-5 text-neutral-500 leading-relaxed">Beauty Sleep Studio uses traditional cyanoacrylate adhesive rather than LED/UV-cured systems. Traditional adhesive has decades of proven safety data, bonds in seconds without UV exposure near the eyes, and allows precise repositioning during application. Haley prefers the control and track record of traditional adhesive for the best results and client safety.</p>
+          </details>
+          <details class="faq-item">
+            <summary>
+              <span>What should I expect at my first appointment?</span>
+              <i class="fas fa-chevron-down faq-chevron text-sm"></i>
+            </summary>
+            <p class="pb-5 text-neutral-500 leading-relaxed">Your first full set takes about 2 to 2.5 hours. Arrive with clean, makeup-free eyes. Haley will consult on your natural lash strength, eye shape, and desired look before selecting the right style, length, and curl. You lie down on a treatment table with a blanket while she works. Most clients relax or fall asleep. Before you leave, she walks through aftercare: avoid water for 24 hours, skip oil-based products near your eyes, and brush daily with a clean spoolie.</p>
           </details>
           <details class="faq-item">
             <summary>
@@ -1335,6 +1399,14 @@
     document.querySelectorAll('.card, .faq-item').forEach(el => {
       observer.observe(el);
     });
+
+    const slides = document.querySelectorAll('.testimonial-slide');
+    let current = 0;
+    setInterval(() => {
+      slides[current].classList.remove('active');
+      current = (current + 1) % slides.length;
+      slides[current].classList.add('active');
+    }, 6000);
   </script>
 </body>
 </html>
