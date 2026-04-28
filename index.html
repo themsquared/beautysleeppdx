@@ -1409,6 +1409,17 @@
       observer.observe(el);
     });
 
+    document.addEventListener('click', function(e) {
+      const link = e.target.closest('a[href*="square.site/book"]');
+      if (link) {
+        gtag('event', 'book_now_click', {
+          event_category: 'booking',
+          event_label: link.textContent.trim(),
+          transport_type: 'beacon'
+        });
+      }
+    });
+
     const slides = document.querySelectorAll('.testimonial-slide');
     let current = 0;
     setInterval(() => {
