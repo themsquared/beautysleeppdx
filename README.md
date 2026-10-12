@@ -2,7 +2,7 @@
 
 Lash extensions, lifts & brow lamination in Portland's Nob Hill — by licensed esthetician Haley.
 
-**Live site:** [beautysleepstudiopdx.com](https://www.beautysleepstudiopdx.com)
+**Live site:** [beautysleepstudiopdx.com](https://beautysleepstudiopdx.com)
 
 ## Stack
 

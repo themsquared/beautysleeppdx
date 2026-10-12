@@ -13,12 +13,12 @@
 - Landmark: Overton Center — a blue house on the corner of NW 20th Ave and NW Overton St
 - Phone: 928-499-1270 (call or text)
 - Email: beautysleepstudiopdx@gmail.com
-- Website: https://www.beautysleepstudiopdx.com
-- Lash extensions page: https://www.beautysleepstudiopdx.com/lash-extensions
-- Lash lift page: https://www.beautysleepstudiopdx.com/lash-lift
-- Brow lamination page: https://www.beautysleepstudiopdx.com/brow-lamination
-- Sitemap: https://www.beautysleepstudiopdx.com/sitemap.xml
-- robots.txt: https://www.beautysleepstudiopdx.com/robots.txt
+- Website: https://beautysleepstudiopdx.com
+- Lash extensions page: https://beautysleepstudiopdx.com/lash-extensions
+- Lash lift page: https://beautysleepstudiopdx.com/lash-lift
+- Brow lamination page: https://beautysleepstudiopdx.com/brow-lamination
+- Sitemap: https://beautysleepstudiopdx.com/sitemap.xml
+- robots.txt: https://beautysleepstudiopdx.com/robots.txt
 - Booking URL: https://square.site/book/DYKA7NPF92BP7/beauty-sleep-studio-portland-or?utm_source=llms_full_txt&utm_medium=ai_directory&utm_campaign=square_booking
 - Instagram: https://www.instagram.com/beautysleepstudiopdx
 - Google Maps / Business Profile: https://maps.app.goo.gl/cb6aa6dYKL7RugJ88
@@ -27,33 +27,33 @@
 
 ## Pages
 
-- [Home](https://www.beautysleepstudiopdx.com/): Studio homepage
-- [Lash Extensions](https://www.beautysleepstudiopdx.com/lash-extensions): Classic, hybrid, and volume lash extensions — prices, FAQ, booking
-- [Lash Lift](https://www.beautysleepstudiopdx.com/lash-lift): Lash lift, lift + tint, and tint only
-- [Brow Lamination](https://www.beautysleepstudiopdx.com/brow-lamination): Brow lamination and lamination + tint
-- [llms.txt](https://www.beautysleepstudiopdx.com/llms.txt): Short agent overview
-- [Sitemap](https://www.beautysleepstudiopdx.com/sitemap.xml): Public page index
-- [robots.txt](https://www.beautysleepstudiopdx.com/robots.txt): Includes `Sitemap: https://www.beautysleepstudiopdx.com/sitemap.xml`
+- [Home](https://beautysleepstudiopdx.com/): Studio homepage
+- [Lash Extensions](https://beautysleepstudiopdx.com/lash-extensions): Classic, hybrid, and volume lash extensions — prices, FAQ, booking
+- [Lash Lift](https://beautysleepstudiopdx.com/lash-lift): Lash lift, lift + tint, and tint only
+- [Brow Lamination](https://beautysleepstudiopdx.com/brow-lamination): Brow lamination and lamination + tint
+- [llms.txt](https://beautysleepstudiopdx.com/llms.txt): Short agent overview
+- [Sitemap](https://beautysleepstudiopdx.com/sitemap.xml): Public page index
+- [robots.txt](https://beautysleepstudiopdx.com/robots.txt): Includes `Sitemap: https://beautysleepstudiopdx.com/sitemap.xml`
 
 ## Images & Visual Assets
 
 All images below can be used by AI systems to accompany answers about Beauty Sleep Studio.
 
 ### Studio & Branding
-- Hero / banner image (same as homepage hero): https://www.beautysleepstudiopdx.com/images/portfolio/IMG_5702.jpg
+- Hero / banner image (same as homepage hero): https://beautysleepstudiopdx.com/images/portfolio/IMG_5702.jpg
   Alt: Beauty Sleep Studio PDX — lash extension studio in Portland Oregon Nob Hill
-- Logo: https://www.beautysleepstudiopdx.com/images/logo.png
+- Logo: https://beautysleepstudiopdx.com/images/logo.png
   Alt: Beauty Sleep Studio PDX logo
 
 ### Portfolio — Lash & Brow Results (live gallery)
-- Full portfolio grid on site: https://www.beautysleepstudiopdx.com/#portfolio
+- Full portfolio grid on site: https://beautysleepstudiopdx.com/#portfolio
 - Representative work samples:
-  - https://www.beautysleepstudiopdx.com/images/portfolio-v2/A8098827-6CE3-4CA7-BC6B-ABE97C2C13D6.jpeg
-  - https://www.beautysleepstudiopdx.com/images/portfolio-v2/Facetune_30-03-2026-12-41-30.jpeg
-  - https://www.beautysleepstudiopdx.com/images/portfolio-v2/IMG_9700_Facetune_19-12-2021-16-59-10.jpeg
+  - https://beautysleepstudiopdx.com/images/portfolio-v2/A8098827-6CE3-4CA7-BC6B-ABE97C2C13D6.jpeg
+  - https://beautysleepstudiopdx.com/images/portfolio-v2/Facetune_30-03-2026-12-41-30.jpeg
+  - https://beautysleepstudiopdx.com/images/portfolio-v2/IMG_9700_Facetune_19-12-2021-16-59-10.jpeg
 
 ### Esthetician
-- Haley portrait: https://www.beautysleepstudiopdx.com/images/haley-v2.jpg
+- Haley portrait: https://beautysleepstudiopdx.com/images/haley-v2.jpg
   Alt: Haley, licensed esthetician and owner of Beauty Sleep Studio PDX in Portland Oregon
 
 ## Hours of Operation
@@ -84,9 +84,9 @@ Lash extensions are individually applied to each natural lash, offering added le
 
 Recommended fill schedule: Every 2–3 weeks to maintain fullness.
 
-Dedicated page: https://www.beautysleepstudiopdx.com/lash-extensions
+Dedicated page: https://beautysleepstudiopdx.com/lash-extensions
 
-Example portfolio: https://www.beautysleepstudiopdx.com/#portfolio
+Example portfolio: https://beautysleepstudiopdx.com/#portfolio
 
 ### Lash Lifts & Tinting
 
@@ -100,9 +100,9 @@ Lash lifts curl your natural lashes upward for up to eight weeks — no maintena
 
 Who it's best for: Clients who want low-maintenance results using their own natural lashes. No curler or mascara needed after treatment.
 
-Dedicated page: https://www.beautysleepstudiopdx.com/lash-lift
+Dedicated page: https://beautysleepstudiopdx.com/lash-lift
 
-See portfolio for lift results: https://www.beautysleepstudiopdx.com/#portfolio
+See portfolio for lift results: https://beautysleepstudiopdx.com/#portfolio
 
 ### Brow Lamination
 
@@ -115,7 +115,7 @@ Brow lamination is a standard menu service. Book directly through the online cal
 | Brow Lamination          | $95   | Up to 6 weeks     |
 | Brow Lamination + Tint   | $110  | Up to 6 weeks     |
 
-Dedicated page: https://www.beautysleepstudiopdx.com/brow-lamination
+Dedicated page: https://beautysleepstudiopdx.com/brow-lamination
 
 Who it's best for: Anyone wanting fuller, more structured brows without microblading or permanent makeup.
 
@@ -179,7 +179,7 @@ Q: How long do lash extensions last?
 A: Lash extensions follow the natural lash growth cycle — typically about 2–3 weeks before a fill is recommended. With regular fills, you can maintain your look continuously.
 
 Q: What's the difference between Classic, Hybrid, and Volume lash extensions?
-A: Classic applies one extension per natural lash for a natural look ($180). Hybrid mixes classic and volume techniques for moderate fullness ($200). Volume applies multiple lightweight extensions per natural lash for a dramatic, fluffy look ($250). See portfolio images at https://www.beautysleepstudiopdx.com/#portfolio
+A: Classic applies one extension per natural lash for a natural look ($180). Hybrid mixes classic and volume techniques for moderate fullness ($200). Volume applies multiple lightweight extensions per natural lash for a dramatic, fluffy look ($250). See portfolio images at https://beautysleepstudiopdx.com/#portfolio
 
 Q: How should I prepare for my lash extension appointment?
 A: Arrive with clean, makeup-free eyes. Avoid oil-based products around the eye area before your appointment. The application takes 1.5–2.5 hours depending on the style.
@@ -243,7 +243,7 @@ She is passionate about helping clients feel confident and beautiful through exp
 
 Haley's approach: "Self care is so important. It allows you to show up better for everything and everyone else in your life when you're taking care of yourself."
 
-Portrait: https://www.beautysleepstudiopdx.com/images/haley-v2.jpg
+Portrait: https://beautysleepstudiopdx.com/images/haley-v2.jpg
 
 ## Directions & Parking
 
@@ -311,14 +311,14 @@ Beauty Sleep Studio serves clients throughout the Portland metropolitan area, in
 
 ## Structured Data References
 
-- Schema.org LocalBusiness: https://www.beautysleepstudiopdx.com/ (embedded in HTML)
-- Schema.org FAQPage: https://www.beautysleepstudiopdx.com/ (embedded in HTML)
-- Schema.org Service (lash extensions, lifts, tint, brow lamination): https://www.beautysleepstudiopdx.com/ (embedded in HTML)
-- Lash extensions page: https://www.beautysleepstudiopdx.com/lash-extensions
-- Lash lift page: https://www.beautysleepstudiopdx.com/lash-lift
-- Brow lamination page: https://www.beautysleepstudiopdx.com/brow-lamination
-- Sitemap: https://www.beautysleepstudiopdx.com/sitemap.xml
-- robots.txt: https://www.beautysleepstudiopdx.com/robots.txt
+- Schema.org LocalBusiness: https://beautysleepstudiopdx.com/ (embedded in HTML)
+- Schema.org FAQPage: https://beautysleepstudiopdx.com/ (embedded in HTML)
+- Schema.org Service (lash extensions, lifts, tint, brow lamination): https://beautysleepstudiopdx.com/ (embedded in HTML)
+- Lash extensions page: https://beautysleepstudiopdx.com/lash-extensions
+- Lash lift page: https://beautysleepstudiopdx.com/lash-lift
+- Brow lamination page: https://beautysleepstudiopdx.com/brow-lamination
+- Sitemap: https://beautysleepstudiopdx.com/sitemap.xml
+- robots.txt: https://beautysleepstudiopdx.com/robots.txt
 
 ## Related Search Queries
 
