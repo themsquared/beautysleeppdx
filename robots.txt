@@ -1,12 +1,12 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://www.beautysleepstudiopdx.com/sitemap.xml
+Sitemap: https://beautysleepstudiopdx.com/sitemap.xml
 
 # AI/LLM crawler discovery (llms.txt standard)
 # See: https://llmstxt.org
-LLMsTxt: https://www.beautysleepstudiopdx.com/llms.txt
-LLMsFullTxt: https://www.beautysleepstudiopdx.com/llms-full.txt
+LLMsTxt: https://beautysleepstudiopdx.com/llms.txt
+LLMsFullTxt: https://beautysleepstudiopdx.com/llms-full.txt
 
 # Explicitly welcome AI crawlers
 User-agent: GPTBot

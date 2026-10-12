@@ -10,16 +10,16 @@ Services and pricing (matches the website): Classic Lash Extensions full set $18
 
 ## Pages
 
-- [Home](https://www.beautysleepstudiopdx.com/): Studio homepage for Beauty Sleep Studio PDX
-- [Lash Extensions](https://www.beautysleepstudiopdx.com/lash-extensions): Classic, hybrid, and volume lash extensions in Portland / NW Portland — prices, FAQ, and booking
-- [Lash Lift](https://www.beautysleepstudiopdx.com/lash-lift): Lash lift, lift + tint, and tint only in Portland / NW Portland
-- [Brow Lamination](https://www.beautysleepstudiopdx.com/brow-lamination): Brow lamination and lamination + tint in Portland / NW Portland
+- [Home](https://beautysleepstudiopdx.com/): Studio homepage for Beauty Sleep Studio PDX
+- [Lash Extensions](https://beautysleepstudiopdx.com/lash-extensions): Classic, hybrid, and volume lash extensions in Portland / NW Portland — prices, FAQ, and booking
+- [Lash Lift](https://beautysleepstudiopdx.com/lash-lift): Lash lift, lift + tint, and tint only in Portland / NW Portland
+- [Brow Lamination](https://beautysleepstudiopdx.com/brow-lamination): Brow lamination and lamination + tint in Portland / NW Portland
 - [Book online](https://square.site/book/DYKA7NPF92BP7/beauty-sleep-studio-portland-or?utm_source=llms_txt&utm_medium=ai_directory&utm_campaign=square_booking): Square booking calendar
 
 ## Optional
 
-- [Full details (llms-full.txt)](https://www.beautysleepstudiopdx.com/llms-full.txt): Complete business information for agents
-- [Sitemap](https://www.beautysleepstudiopdx.com/sitemap.xml): Index of public pages
-- [robots.txt](https://www.beautysleepstudiopdx.com/robots.txt): Crawler rules, including the Sitemap URL
+- [Full details (llms-full.txt)](https://beautysleepstudiopdx.com/llms-full.txt): Complete business information for agents
+- [Sitemap](https://beautysleepstudiopdx.com/sitemap.xml): Index of public pages
+- [robots.txt](https://beautysleepstudiopdx.com/robots.txt): Crawler rules, including the Sitemap URL
 - [Google Maps / Business Profile](https://maps.app.goo.gl/cb6aa6dYKL7RugJ88)
 - [Instagram](https://www.instagram.com/beautysleepstudiopdx)
