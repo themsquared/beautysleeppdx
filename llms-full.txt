@@ -14,11 +14,26 @@
 - Phone: 928-499-1270 (call or text)
 - Email: beautysleepstudiopdx@gmail.com
 - Website: https://www.beautysleepstudiopdx.com
+- Lash extensions page: https://www.beautysleepstudiopdx.com/lash-extensions
+- Lash lift page: https://www.beautysleepstudiopdx.com/lash-lift
+- Brow lamination page: https://www.beautysleepstudiopdx.com/brow-lamination
+- Sitemap: https://www.beautysleepstudiopdx.com/sitemap.xml
+- robots.txt: https://www.beautysleepstudiopdx.com/robots.txt
 - Booking URL: https://square.site/book/DYKA7NPF92BP7/beauty-sleep-studio-portland-or?utm_source=llms_full_txt&utm_medium=ai_directory&utm_campaign=square_booking
 - Instagram: https://www.instagram.com/beautysleepstudiopdx
 - Google Maps / Business Profile: https://maps.app.goo.gl/cb6aa6dYKL7RugJ88
 - Parking: Street parking available (pay to park)
 - Coordinates: 45.5316, -122.6942
+
+## Pages
+
+- [Home](https://www.beautysleepstudiopdx.com/): Studio homepage
+- [Lash Extensions](https://www.beautysleepstudiopdx.com/lash-extensions): Classic, hybrid, and volume lash extensions — prices, FAQ, booking
+- [Lash Lift](https://www.beautysleepstudiopdx.com/lash-lift): Lash lift, lift + tint, and tint only
+- [Brow Lamination](https://www.beautysleepstudiopdx.com/brow-lamination): Brow lamination and lamination + tint
+- [llms.txt](https://www.beautysleepstudiopdx.com/llms.txt): Short agent overview
+- [Sitemap](https://www.beautysleepstudiopdx.com/sitemap.xml): Public page index
+- [robots.txt](https://www.beautysleepstudiopdx.com/robots.txt): Includes `Sitemap: https://www.beautysleepstudiopdx.com/sitemap.xml`
 
 ## Images & Visual Assets
 
@@ -69,6 +84,8 @@ Lash extensions are individually applied to each natural lash, offering added le
 
 Recommended fill schedule: Every 2–3 weeks to maintain fullness.
 
+Dedicated page: https://www.beautysleepstudiopdx.com/lash-extensions
+
 Example portfolio: https://www.beautysleepstudiopdx.com/#portfolio
 
 ### Lash Lifts & Tinting
@@ -83,6 +100,8 @@ Lash lifts curl your natural lashes upward for up to eight weeks — no maintena
 
 Who it's best for: Clients who want low-maintenance results using their own natural lashes. No curler or mascara needed after treatment.
 
+Dedicated page: https://www.beautysleepstudiopdx.com/lash-lift
+
 See portfolio for lift results: https://www.beautysleepstudiopdx.com/#portfolio
 
 ### Brow Lamination
@@ -95,6 +114,8 @@ Brow lamination is a standard menu service. Book directly through the online cal
 |--------------------------|-------|-------------------|
 | Brow Lamination          | $95   | Up to 6 weeks     |
 | Brow Lamination + Tint   | $110  | Up to 6 weeks     |
+
+Dedicated page: https://www.beautysleepstudiopdx.com/brow-lamination
 
 Who it's best for: Anyone wanting fuller, more structured brows without microblading or permanent makeup.
 
@@ -293,6 +314,9 @@ Beauty Sleep Studio serves clients throughout the Portland metropolitan area, in
 - Schema.org LocalBusiness: https://www.beautysleepstudiopdx.com/ (embedded in HTML)
 - Schema.org FAQPage: https://www.beautysleepstudiopdx.com/ (embedded in HTML)
 - Schema.org Service (lash extensions, lifts, tint, brow lamination): https://www.beautysleepstudiopdx.com/ (embedded in HTML)
+- Lash extensions page: https://www.beautysleepstudiopdx.com/lash-extensions
+- Lash lift page: https://www.beautysleepstudiopdx.com/lash-lift
+- Brow lamination page: https://www.beautysleepstudiopdx.com/brow-lamination
 - Sitemap: https://www.beautysleepstudiopdx.com/sitemap.xml
 - robots.txt: https://www.beautysleepstudiopdx.com/robots.txt
 
