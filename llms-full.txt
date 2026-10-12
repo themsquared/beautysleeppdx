@@ -293,6 +293,9 @@ Beauty Sleep Studio serves clients throughout the Portland metropolitan area, in
 - Schema.org LocalBusiness: https://www.beautysleepstudiopdx.com/ (embedded in HTML)
 - Schema.org FAQPage: https://www.beautysleepstudiopdx.com/ (embedded in HTML)
 - Schema.org Service (lash extensions, lifts, tint, brow lamination): https://www.beautysleepstudiopdx.com/ (embedded in HTML)
+- Lash extensions page: https://www.beautysleepstudiopdx.com/lash-extensions
+- Lash lift page: https://www.beautysleepstudiopdx.com/lash-lift
+- Brow lamination page: https://www.beautysleepstudiopdx.com/brow-lamination
 - Sitemap: https://www.beautysleepstudiopdx.com/sitemap.xml
 - robots.txt: https://www.beautysleepstudiopdx.com/robots.txt
 

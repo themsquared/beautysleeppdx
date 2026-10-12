@@ -1,5 +1,5 @@
 [build]
-  command = "npm run build && curl -s -o /dev/null -w '%{http_code}' -X POST 'https://api.indexnow.org/indexnow' -H 'Content-Type: application/json; charset=utf-8' -d '{\"host\":\"www.beautysleepstudiopdx.com\",\"key\":\"7c4a9e2f1d8b5c3e6a2f9d7b\",\"keyLocation\":\"https://www.beautysleepstudiopdx.com/7c4a9e2f1d8b5c3e6a2f9d7b.txt\",\"urlList\":[\"https://www.beautysleepstudiopdx.com/\"]}' || true"
+  command = "npm run build && curl -s -o /dev/null -w '%{http_code}' -X POST 'https://api.indexnow.org/indexnow' -H 'Content-Type: application/json; charset=utf-8' -d '{\"host\":\"www.beautysleepstudiopdx.com\",\"key\":\"7c4a9e2f1d8b5c3e6a2f9d7b\",\"keyLocation\":\"https://www.beautysleepstudiopdx.com/7c4a9e2f1d8b5c3e6a2f9d7b.txt\",\"urlList\":[\"https://www.beautysleepstudiopdx.com/\",\"https://www.beautysleepstudiopdx.com/lash-extensions\",\"https://www.beautysleepstudiopdx.com/lash-lift\",\"https://www.beautysleepstudiopdx.com/brow-lamination\"]}' || true"
   publish = "."
 
 [build.environment]
@@ -52,6 +52,22 @@
   [headers.values]
     Content-Type = "text/plain; charset=utf-8"
     Cache-Control = "public, max-age=86400"
+
+# Pretty URLs for dedicated service pages (before the homepage fallback)
+[[redirects]]
+  from = "/lash-extensions"
+  to = "/lash-extensions.html"
+  status = 200
+
+[[redirects]]
+  from = "/lash-lift"
+  to = "/lash-lift.html"
+  status = 200
+
+[[redirects]]
+  from = "/brow-lamination"
+  to = "/brow-lamination.html"
+  status = 200
 
 # Serve index.html for any path that doesn't match a file (clean 404 fallback)
 [[redirects]]
