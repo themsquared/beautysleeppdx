@@ -2,48 +2,24 @@
 
 > Portland lash extension, lash lift, and brow lamination studio in Nob Hill (Northwest Portland). Licensed esthetician Haley specializes in extensions, lifts, and brows — book online or call.
 
-## Location
-1308 NW 20th Ave, Suite 4, Portland, OR 97209  
-Nob Hill / Northwest Portland — Overton Center (blue house, NW 20th & NW Overton)  
-Google Maps / Business Profile: https://maps.app.goo.gl/cb6aa6dYKL7RugJ88
+Location: 1308 NW 20th Ave, Suite 4, Portland, OR 97209. Nob Hill / Northwest Portland — Overton Center (blue house, NW 20th & NW Overton). Phone: 928-499-1270 (call or text). Email: beautysleepstudiopdx@gmail.com.
 
-## Contact
-- Phone: 928-499-1270 (call or text)
-- Email: beautysleepstudiopdx@gmail.com
-- Book online: https://square.site/book/DYKA7NPF92BP7/beauty-sleep-studio-portland-or?utm_source=llms_txt&utm_medium=ai_directory&utm_campaign=square_booking
-- Instagram: https://www.instagram.com/beautysleepstudiopdx
-- Website: https://www.beautysleepstudiopdx.com
-- Lash extensions: https://www.beautysleepstudiopdx.com/lash-extensions
-- Lash lift: https://www.beautysleepstudiopdx.com/lash-lift
-- Brow lamination: https://www.beautysleepstudiopdx.com/brow-lamination
+Hours (confirm in booking — Saturday is every other week): Monday–Wednesday 10:00am–6:00pm; every other Saturday 10:00am–5:00pm; Thursday, Friday, and Sunday closed.
 
-## Hours (confirm in booking — Saturday is every other week)
-- Monday–Wednesday: 10:00am–6:00pm
-- Every other Saturday: 10:00am–5:00pm
-- Thursday, Friday, Sunday: closed (except scheduled Saturdays above)
+Services and pricing (matches the website): Classic Lash Extensions full set $180 — fills $80 (60 min) / $100 (90 min); Hybrid Lash Extensions full set $200 — fills $90 (60 min) / $110 (90 min); Volume Lash Extensions full set $250 — fills $100 (60 min) / $120 (90 min); Lash Removal $40; Lash Lift + Tint $110; Lash Lift Only $95; Lash Tint Only $40; Brow Lamination $95; Brow Lamination + Tint $110.
 
-## Services & Pricing (matches website)
-- Classic Lash Extensions (full set): $180 — fills from $80 (60 min) / $100 (90 min)
-- Hybrid Lash Extensions (full set): $200 — fills from $90 (60 min) / $110 (90 min)
-- Volume Lash Extensions (full set): $250 — fills from $100 (60 min) / $120 (90 min)
-- Lash Removal: $40
-- Lash Lift + Tint: $110
-- Lash Lift Only: $95
-- Lash Tint Only: $40
-- Brow Lamination: $95
-- Brow Lamination + Tint: $110
+## Pages
 
-## Images
-- Hero / social share: https://www.beautysleepstudiopdx.com/images/portfolio/IMG_5702.jpg
-- Portfolio gallery: https://www.beautysleepstudiopdx.com/#portfolio
-- Haley portrait: https://www.beautysleepstudiopdx.com/images/haley-v2.jpg
-- Logo: https://www.beautysleepstudiopdx.com/images/logo.png
-
-## About
-Haley is a licensed Oregon esthetician with 13+ years specializing in lash extensions, lash lifts, and brow lamination. Services are tailored to each client’s eye shape and style.
-
-## Service Area
-Portland metro and surrounding cities: Nob Hill, Pearl District, Northwest Portland, Beaverton, Lake Oswego, Tigard, West Linn, Hillsboro, Gresham, Oregon City, Milwaukie, Vancouver WA, and more.
+- [Home](https://www.beautysleepstudiopdx.com/): Studio homepage for Beauty Sleep Studio PDX
+- [Lash Extensions](https://www.beautysleepstudiopdx.com/lash-extensions): Classic, hybrid, and volume lash extensions in Portland / NW Portland — prices, FAQ, and booking
+- [Lash Lift](https://www.beautysleepstudiopdx.com/lash-lift): Lash lift, lift + tint, and tint only in Portland / NW Portland
+- [Brow Lamination](https://www.beautysleepstudiopdx.com/brow-lamination): Brow lamination and lamination + tint in Portland / NW Portland
+- [Book online](https://square.site/book/DYKA7NPF92BP7/beauty-sleep-studio-portland-or?utm_source=llms_txt&utm_medium=ai_directory&utm_campaign=square_booking): Square booking calendar
 
 ## Optional
-- llms-full.txt: https://www.beautysleepstudiopdx.com/llms-full.txt
+
+- [Full details (llms-full.txt)](https://www.beautysleepstudiopdx.com/llms-full.txt): Complete business information for agents
+- [Sitemap](https://www.beautysleepstudiopdx.com/sitemap.xml): Index of public pages
+- [robots.txt](https://www.beautysleepstudiopdx.com/robots.txt): Crawler rules, including the Sitemap URL
+- [Google Maps / Business Profile](https://maps.app.goo.gl/cb6aa6dYKL7RugJ88)
+- [Instagram](https://www.instagram.com/beautysleepstudiopdx)
